@@ -1,2 +1,2 @@
 # INSTALLATIONS
-This Repository contains Development Software Installation steps on Linux Platform & Windows Platform.
+This Repository contains Software Installation steps on Linux Platform & Windows Platform.
